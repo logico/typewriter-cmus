@@ -1,0 +1,49 @@
+# default text color
+set color_win_fg=245
+
+# overall background color
+set color_win_bg=235
+
+# command-line colors
+set color_cmdline_bg=235
+set color_cmdline_fg=254
+set color_error=197
+set color_info=135
+set color_separator=153
+
+# bottom status line
+set color_statusline_bg=255
+set color_statusline_fg=235
+
+# bottom title line
+set color_titleline_bg=153
+set color_titleline_fg=235
+
+# top title area
+set color_win_title_bg=255
+set color_win_title_fg=235
+
+##### playing file colors ######################################################
+# unselected currently playing track's text
+set color_win_cur=255
+
+# active selection for currently playing track
+set color_win_cur_sel_bg=33
+set color_win_cur_sel_fg=255
+
+# inactive selection for currently playing track
+set color_win_inactive_cur_sel_bg=235
+set color_win_inactive_cur_sel_fg=33
+
+##### non-playing file colors ##################################################
+# active selection
+set color_win_sel_bg=255
+set color_win_sel_fg=235
+
+# inactive selection
+set color_win_inactive_sel_bg=235
+set color_win_inactive_sel_fg=153
+
+##### file browser view colors #################################################
+# directory listing color
+set color_win_dir=254
